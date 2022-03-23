@@ -1,0 +1,84 @@
+m
+CompSci
+b
+testing
+l
+0
+q
+mc
+Hello this is a test
+		1. is it?
+		2. really?
+		3. I don't think it is.
+end
+3
+q
+ftb
+What words ___ meant to __ in the gaps?
+2
+are
+be
+l
+1
+q
+mc
+Hallo ich bin ein fluss
+		1. nein
+		2. du bist nicht ein fluss
+		3. ja
+end
+3
+q
+ftb
+Warum spreche Deutsche __ __
+2
+ja
+ja
+m
+newModule
+b
+newBank
+l
+0
+q
+mc
+MCexample1
+		1. one
+		2. two
+		3. three
+end
+2
+q
+ftb
+FBexample1 _
+1
+exampleBlank
+q
+ftb
+FBexample2 _ _ _
+3
+exampleBlank1
+exampleBlank2
+exampleBlank3
+l
+1
+q
+mc
+MCgerman1
+		1. ein
+		2. zwei
+		3. drei
+end
+2
+q
+ftb
+FBgerman1 _
+1
+germanBlank
+q
+ftb
+FBgerman2 _ _ _
+3
+germanBlank1
+germanBlank2
+germanBlank3
